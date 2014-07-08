@@ -1,0 +1,3 @@
+# ignore what is needed for a local install
+db.php
+general.php
